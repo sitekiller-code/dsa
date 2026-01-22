@@ -1,0 +1,15 @@
+git version=git --version
+git status
+git init     
+git branch -m <name>
+git add
+git commit
+git push
+git log
+git branch name
+git switch branch name
+git checkout
+git merge
+
+git branch -m <old name ><new name>
+git branch -d <name>
