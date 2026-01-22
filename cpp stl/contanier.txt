@@ -1,0 +1,9 @@
+the all member function of the all type is same 
+1.queue<int>__name;
+2.stack<int >__name;
+3.deque<int>__name;
+4.priority_queue<int >_name;
+5.map is the string type_map<string,string> name;
+6.set<int>.__name;
+
+
